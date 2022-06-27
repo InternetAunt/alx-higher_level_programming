@@ -1,1 +1,3 @@
+0x00. Python - Hello, World
+
 I'm so excited! Python here I come...
